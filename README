@@ -1,0 +1,12 @@
+This repository consists of python scripts, which I create from time to time
+and share with world at large.
+
+1.	tk_queens.py	Displays the solutions of eight queens problem
+					Uses Tkinter
+
+2.	50px-Chess_qdt45.svg.png	Image of the queen used in the above script
+
+3.	tk_knights.py	Solves the knight's tour problem visually
+					Uses Tkinter
+
+4.	50px-Chess_ndt45.svg.png	Image of the knight used in the above script
